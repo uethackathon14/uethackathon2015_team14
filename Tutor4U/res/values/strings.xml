@@ -7,6 +7,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="drawer_open">Slider Menu Opened</string>
     <string name="drawer_close">Slider Menu Closed</string>
+    <string name="list_drawer_name">Tên gia sư :</string>
+     <string name="list_drawer_subject">Môn giảng dạy :</string>
+     <string name="list_drawer_level">Trình độ :</string>
     
     <!-- Nav Drawer Menu Items -->
     <string-array name="nav_drawer_items">
